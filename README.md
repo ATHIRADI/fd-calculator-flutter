@@ -1,5 +1,7 @@
 ![1](https://github.com/user-attachments/assets/6367e8d6-f5c8-475f-80c3-f0e3d7808e66)
 
+https://github.com/user-attachments/assets/aed7848a-633b-4f38-8230-a709fe7245db
+
 
   <h2>Fixed Deposit Calculator</h2>
   
