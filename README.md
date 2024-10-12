@@ -1,7 +1,7 @@
   <h2>Fixed Deposit Calculator</h2>
 
-https://github.com/user-attachments/assets/aed7848a-633b-4f38-8230-a709fe7245db
- 
+https://github.com/user-attachments/assets/42a4593c-59a5-4251-a852-0d8ae817ebed
+
   <p>
     This project is a simple <strong>Fixed Deposit (FD) Calculator</strong> built using <strong>Flutter</strong>. 
     The app allows users to calculate the interest and total amount earned on a fixed deposit over a specified 
