@@ -1,7 +1,7 @@
 ![1](https://github.com/user-attachments/assets/6367e8d6-f5c8-475f-80c3-f0e3d7808e66)
 
 
-  <h2>Project Summary: FD Calculator (Fixed Deposit Calculator)</h2>
+  <h2>Fixed Deposit Calculator</h2>
   
   <p>
     This project is a simple <strong>Fixed Deposit (FD) Calculator</strong> built using <strong>Flutter</strong>. 
